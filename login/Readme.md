@@ -1,4 +1,3 @@
-
 **LOGIN FORM-PHP,MySql**
 
 by Jakub Hanykýř, Jakub Pavlovič
@@ -6,16 +5,20 @@ by Jakub Hanykýř, Jakub Pavlovič
 Login form s užitím PHP + MySql
 
 ## Použité moduly
-1. Tailwind framework
-2. Prettier
-3. Live Server
+1. HTML
+2. CSS
+3. JS
+4. Prettier
+5. Live Server
 ## Použité technologie
 1. PHP My Admin
 
 Login page:
-![LOGIN_LOOK](https://user-images.githubusercontent.com/90202111/205504767-290775fd-c124-49c9-9332-958d7f25bad5.JPG)
-
+![Snímek obrazovky_20221204_181853](https://user-images.githubusercontent.com/92738343/205505570-4f1ca627-65d8-4efe-a175-0968e0aab675.png)
 
 User page:
-![User_look](https://user-images.githubusercontent.com/90202111/205504811-048f5fe5-c410-4b59-ba09-ce1d5b082c3d.JPG)
+![Snímek obrazovky_20221204_181925](https://user-images.githubusercontent.com/92738343/205505568-007f19f3-9efb-4bce-85a9-096c273110d6.png)
 
+
+Admin page:
+![Snímek obrazovky_20221204_181440](https://user-images.githubusercontent.com/92738343/205505473-a4ab6401-7d47-4d82-8ba8-3915bccf410b.png)

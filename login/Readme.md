@@ -22,3 +22,11 @@ User page:
 
 Admin page:
 ![Snímek obrazovky_20221204_181440](https://user-images.githubusercontent.com/92738343/205505473-a4ab6401-7d47-4d82-8ba8-3915bccf410b.png)
+
+Pro přihlášení:
+Admin: user: admin
+password: 12345678
+
+pro user:
+user
+password: 1234
